@@ -1095,64 +1095,64 @@ ul.footer-info li:hover{
      color:#000;
 }
  .service-manufactureicon{
-     background:url('/images/one-hand-images/Home-page/Paper-bags/bagicon2.webp') no-repeat 0px 0px;
+     background:url('../images/one-hand-images/Home-page/Paper-bags/bagicon2.webp') no-repeat 0px 0px;
      background-size: cover;
 }
  .service-cncicon{
-     background:url('/images/one-hand-images/Home-page/SOS-Cover/sos-icon.png') no-repeat 0px 0px;
+     background:url('../images/one-hand-images/Home-page/SOS-Cover/sos-icon.png') no-repeat 0px 0px;
      background-size: cover;
 }
  .service-chemicalicon{
-     background:url('/images/one-hand-images/Home-page/Non-wooven-bags/Non-wooven-icon.png') no-repeat 0px 0px;
+     background:url('../images/one-hand-images/Home-page/Non-wooven-bags/Non-wooven-icon.png') no-repeat 0px 0px;
      background-size: cover;
 }
  .service-energyicon{
-     background:url('/images/one-hand-images/Home-page/Jute-bags/jute-icon.webp') no-repeat 0px 0px;
+     background:url('../images/one-hand-images/Home-page/Jute-bags/jute-icon.webp') no-repeat 0px 0px;
      background-size: cover;
 }
  .service-oilicon{
-     background:url('/images/one-hand-images/Home-page/water-bottle/botleicon-1.png') no-repeat 0px 0px;
+     background:url('../images/one-hand-images/Home-page/water-bottle/botleicon-1.png') no-repeat 0px 0px;
      background-size:cover;
 }
  .service-materialicon{
-     background:url('/images/one-hand-images/Home-page/Cotton-bags/Cotton-bags-icon.png') no-repeat 0px 0px;
+     background:url('../images/one-hand-images/Home-page/Cotton-bags/Cotton-bags-icon.png') no-repeat 0px 0px;
      background-size: cover;
 }
 
 .service-bioicon{
-    background:url('/images/one-hand-images/Home-page/Bio-Cover/Bio-cover-icon.jpg') no-repeat 0px 0px;
+    background:url('../images/one-hand-images/Home-page/Bio-Cover/Bio-cover-icon.jpg') no-repeat 0px 0px;
     background-size: cover;
 }
 
 .service-tissueicon{
-    background:url('/images/one-hand-images/Home-page/tissuepapers/tissueicon.png') no-repeat 0px 0px;
+    background:url('../images/one-hand-images/Home-page/tissuepapers/tissueicon.png') no-repeat 0px 0px;
     background-size: cover;
 }
 
 .service-plaicon{
-    background:url('/images/one-hand-images/Home-page/PLA-cup/papercup1.png') no-repeat 0px 0px;
+    background:url('../images/one-hand-images/Home-page/PLA-cup/papercup1.png') no-repeat 0px 0px;
     background-size: cover;
 }
 
 .service-iceicon{
-    background:url('/images/one-hand-images/Home-page/Ice-cream-cup/ice-cream-cup-icon.png') no-repeat 0px 0px;
+    background:url('../images/one-hand-images/Home-page/Ice-cream-cup/ice-cream-cup-icon.png') no-repeat 0px 0px;
     background-size: cover;
 }
 
 .service-peticon{
-    background:url('/images/one-hand-images/Home-page/PET bottles/pet-bottle-icon.png') no-repeat 0px 0px;
+    background:url('../images/one-hand-images/Home-page/PET bottles/pet-bottle-icon.png') no-repeat 0px 0px;
     background-size: cover;
 }
 .service-cartoonicon{
-    background:url('/images/one-hand-images/Home-page/Cartoonbox/cartoonboxicon1.png') no-repeat 0px 0px;
+    background:url('../images/one-hand-images/Home-page/Cartoonbox/cartoonboxicon1.png') no-repeat 0px 0px;
     background-size: cover;
 }
 .service-thermalicon{
-    background:url('/images/one-hand-images/Home-page/Thermalpapers/thermalpapericon1.webp') no-repeat 0px 0px;
+    background:url('../images/one-hand-images/Home-page/Thermalpapers/thermalpapericon1.webp') no-repeat 0px 0px;
     background-size: cover;
 }
 .service-linericon{
-    background:url('/images/one-hand-images/Home-page/pp-woven-liner-bag/linericon.png') no-repeat 0px 0px;
+    background:url('../images/one-hand-images/Home-page/pp-woven-liner-bag/linericon.png') no-repeat 0px 0px;
     background-size: cover;
 }
 /*======services end=======*/
@@ -2412,7 +2412,7 @@ ul.category-list li i.fa {
      width:100%;
      float:left;
      padding:40px 0px 0px 20px;
-     background:url('/images/one-hand-images/Home-page/Contact/contact-image-1.jpg') no-repeat center top;
+     background:url('../images/one-hand-images/Home-page/Contact/contact-image-1.jpg') no-repeat center top;
      
      border-bottom:4px solid #017e28;
      background-size:cover;
@@ -4254,15 +4254,15 @@ ul.category-list li i.fa {
 	position:relative;
 }
 .hmslider1 .slide-1{
-	background-image: url("./giphy.gif");
+	background-image: url("../images/one-hand-images/Home-page/water-bottle/Bottle3.jpg");
 	background-position: center right;
 }
 .hmslider1 .slide-2{
-	background-image: url("/images/one-hand-images/Home-page/Paper-bags/banner-img.jpg");
+	background-image: url("../images/one-hand-images/Home-page/Paper-bags/banner-img.jpg");
 	background-position: center right;
 }
 .hmslider1 .slide-3{
-	background-image: url("/images/one-hand-images/Home-page/PLA-cup/cup-orginal/giphy.gif");
+	background-image: url("../images/one-hand-images/Home-page/PLA-cup/cup-orginal/giphy.gif");
 	background-position: center right;
 }
 
