@@ -6880,6 +6880,7 @@ section.experienceSec{
 }
  @media only screen and (min-width: 992px) and (max-width: 1199px) {
      .header1 #main-navigation-wrapper .nav > li > a {
+        background-color: #e0ffe0;
          padding:22px 15px;
     }
      .header-nav-right {
