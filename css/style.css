@@ -1991,6 +1991,7 @@ ul.footer-info li:hover{
  .history-list .top-img{
      display:inline-block;
      width:100%;
+     margin-top: 2em;
 }
  .history-list .top-img img{
      display:inline-block;
@@ -2003,8 +2004,7 @@ ul.footer-info li:hover{
      margin:-53px 0px 30px;
 }
  .history-list-middle .white-circle{
-     width:110px;
-     height:110px;
+     
      display:inline-block;
      background:#fff;
      border-radius:100%;
@@ -2013,8 +2013,7 @@ ul.footer-info li:hover{
      position:relative;
 }
  .history-list-middle .white-circle-border{
-     width:100px;
-     height:100px;
+     
      display:inline-block;
      background:#fff;
      border-radius:100%;
