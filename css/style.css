@@ -73,7 +73,7 @@ Table of Content:
  header, footer, main, nav, section{
      width:100%;
      float:left;
-     background-color: #5e815e1f;
+     background-color: #FFFFFF;
 }
  h2{
      font-size:46px;
@@ -2754,10 +2754,10 @@ ul.category-list li i.fa {
 .make-hide{
     display: none;
 }
-#sectionall-products, #sectionpaper-bags,#sectionpaper-bags-brown,#sectionpaper-bags-white,#sectionpaper-bags-green,#sectionsos-cover-white,#sectionsos-cover-brown,#sectionnon-woven-bags,#sectionnon-woven-bags-d-cut,#sectionnon-woven-bags-loop-handle,#sectionnon-woven-bags-jewllery,#sectionnon-woven-bags-mobile,#sectionnon-woven-bags-shopping,#sectionjute-bags,#sectionwater-bottles,#sectioncotton-bags,#sectionrotto-bags,#sectiongada-bags,#sectioncanvas-bags,#sectionbio-covers,#sectionbio-covers-white,#sectionbio-covers-yellow,#sectiontissue-papers,#sectionpla-coated-cups,#sectionpla-coated-cups-bio,#sectionicecream-cups,#sectionicecream-cups-large,#sectionicecream-cups-Small,#sectionpet-bottles,#sectionpet-bottles-blacked,#sectionpet-bottles-white,#sectioncartoon-box,#sectionthermal-papers,#sectionnon-liner-bags{
-    animation-name: zoom-in !important;
-    animation-duration: 2s !important;
-}
+/* #sectionall-products, #sectionpaper-bags,#sectionpaper-bags-brown,#sectionpaper-bags-white,#sectionpaper-bags-green,#sectionsos-cover-white,#sectionsos-cover-brown,#sectionnon-woven-bags,#sectionnon-woven-bags-d-cut,#sectionnon-woven-bags-loop-handle,#sectionnon-woven-bags-jewllery,#sectionnon-woven-bags-mobile,#sectionnon-woven-bags-shopping,#sectionjute-bags,#sectionwater-bottles,#sectioncotton-bags,#sectionrotto-bags,#sectiongada-bags,#sectioncanvas-bags,#sectionbio-covers,#sectionbio-covers-white,#sectionbio-covers-yellow,#sectiontissue-papers,#sectionpla-coated-cups,#sectionpla-coated-cups-bio,#sectionicecream-cups,#sectionicecream-cups-large,#sectionicecream-cups-Small,#sectionpet-bottles,#sectionpet-bottles-blacked,#sectionpet-bottles-white,#sectioncartoon-box,#sectionthermal-papers,#sectionnon-liner-bags,#sectionsos-cover{
+    animation-name: zoom-in;
+    animation-duration: 2s;
+} */
 @keyframes zoom-in{
     from{
         transform: scale(0);
@@ -3322,6 +3322,7 @@ ul.category-list li i.fa {
      box-shadow: 0px 0px 5px 1px ;
      transition: all 1s;
      cursor: pointer;
+     background-color: #e7e7e7;
 }
 /* .shop-column:hover{
     /* background-color:rgba(156, 197, 150, 0.384);
